@@ -1,6 +1,6 @@
-# Foundation Compass Template
+# MTB Bendigo Main Theme
 
-The easiest way to get started with Foundation + Compass.
+The main theme for the Bendigo Mountain Bike Club website
 
 ## Requirements
 
@@ -8,22 +8,7 @@ The easiest way to get started with Foundation + Compass.
   * [Node.js](http://nodejs.org)
   * [compass](http://compass-style.org/): `gem install compass`
   * [bower](http://bower.io): `npm install bower -g`
+  * php 5.3+
+  * foundation 5.5.3 (http://foundation.zurb.com/sites/docs/v/5.5.3/)
+  * Mysql
 
-## Quickstart
-
-  * [Download this starter compass project and unzip it](https://github.com/zurb/foundation-compass-template/archive/master.zip)
-  * Run `bower install` to install the latest version of Foundation
-  
-Then when you're working on your project, just run the following command:
-
-```bash
-bundle exec compass watch
-```
-
-## Upgrading
-
-If you'd like to upgrade to a newer version of Foundation down the road just run:
-
-```bash
-bower update
-```
